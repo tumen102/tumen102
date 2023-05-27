@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [my website](http://c00.packetkeepa.live)
 - 🌱 I’m currently learning C++ (slowly)
-- 📫 How to reach me: [via Telegram](t.me/loginstart)
+- 📫 How to reach me: [via Telegram](https://t.me/loginstart)
 - ⚡ Fun fact: Tumen is a river that serves as part of the boundary between China, North Korea and Russia.
 
 <!--
