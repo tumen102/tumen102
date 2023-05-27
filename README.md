@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [my website](http://c00.packetkeepa.live)
+- 🌱 I’m currently learning C++ (slowly)
+- 📫 How to reach me: [via Telegram](t.me/loginstart)
+- ⚡ Fun fact: Tumen is a river that serves as part of the boundary between China, North Korea and Russia.
+
 <!--
 **tumen102/tumen102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
