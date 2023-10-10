@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [my website](http://c00.packetkeepa.live)
-- 🌱 I’m currently learning C++ (slowly)
+- 🔭 I’m currently working on a modification for Minecraft
 - 📫 How to reach me: [via Telegram](https://t.me/loginstart)
 - ⚡ Fun fact: Tumen is a river that serves as part of the boundary between China, North Korea and Russia.
 
