@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing‼️
-- 📫 How to reach me: [via Telegram](https://t.me/loginstart)
+- 📫 How to reach me: [via Email](mailto:tumen102@osas.solutions)
 - ⚡ Fun fact: Tumen is a river that serves as part of the boundary between China, North Korea and Russia.
 
 <!--
